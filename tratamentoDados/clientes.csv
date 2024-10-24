@@ -1,0 +1,301 @@
+,nome,cpf,idade,data,endereco,estado,pais
+0,Isaac Costela,192.437.056-52,38,26/05/1986,"Vila Campos, 17
+Vila Antena Montanhês
+03829-329 Cirino Alegre / GO",Rio Grande do Norte,Brasil
+1,Dra. Nina da Luz,218.675.904-76,25,13/12/1998,"Campo de Cassiano
+Conjunto Lagoa
+43003-217 Pires / SP",Rio Grande do Norte,Brasil
+2,Caleb da Luz,761.054.289-01,53,25/07/1971,"Praça Lopes, 39
+Vila Da Amizade
+24255-333 Sousa / TO",Distrito Federal,Brasil
+3,Luara Vargas,175.862.903-77,53,05/07/1971,"Favela Ribeiro, 52
+Vila Engenho Nogueira
+79833-833 Oliveira do Oeste / AC",Piauí,Brasil
+4,Bento da Paz,953.847.261-64,54,06/08/1970,"Largo Miguel Almeida
+Vila Puc
+18734-705 Melo de Goiás / PR",Roraima,Brasil
+5,Heloísa Vargas,376.415.820-44,38,30/07/1986,"Praça de Caldeira
+Vila Real 1ª Seção
+42380-870 da Cruz da Serra / SP",Amazonas,Brasil
+6,Rhavi Pereira,705.184.639-66,46,25/09/1977,"Ladeira de Ribeiro, 98
+Vila Nova Gameleira 1ª Seção
+89448034 Moraes das Pedras / RJ",São Paulo,Brasil
+7,João Aparecida,956.741.823-37,19,01/03/2005,"Travessa de Jesus, 9
+São Cristóvão
+27824000 Vieira / AL",Goiás,Brasil
+8,Sr. João Gabriel Mendonça,375.928.641-00,28,06/08/1996,"Favela Ravi da Conceição, 550
+Vale Do Jatoba
+58273091 Montenegro / AM",Rondônia,Brasil
+9,Sr. Mathias Campos,051.746.389-00,33,02/10/1990,"Vereda Fogaça, 664
+Suzana
+13966-293 Sá da Praia / PA",Rondônia,Brasil
+10,Camila Lopes,160.572.943-43,27,17/01/1997,"Feira Calebe Abreu, 15
+Mineirão
+87508463 Camargo de Barbosa / PB",Minas Gerais,Brasil
+11,Sra. Beatriz Fogaça,640.593.712-70,46,17/01/1978,"Estrada Rios, 96
+São Sebastião
+60694461 da Conceição / GO",Goiás,Brasil
+12,Nicole Pinto,785.201.369-40,20,12/10/2003,"Travessa Rocha, 41
+Vila Cemig
+73473-440 Aparecida de Abreu / CE",Paraíba,Brasil
+13,Sr. Otávio Albuquerque,364.829.057-65,58,06/09/1966,"Quadra de Vieira
+Vila Esplanada
+54643322 Moura do Campo / RR",Santa Catarina,Brasil
+14,Isabelly da Paz,650.397.241-52,35,08/09/1989,"Campo de Macedo, 28
+Granja De Freitas
+92144201 Albuquerque / SP",Rio Grande do Norte,Brasil
+15,Vitor Hugo Monteiro,701.638.452-71,20,26/07/2004,"Alameda Henrique das Neves, 726
+Bacurau
+97364257 Borges / AL",Espírito Santo,Brasil
+16,Mathias Carvalho,743.129.850-14,33,13/03/1991,"Estação Caio Viana, 474
+Ipiranga
+11305-730 Dias / PA",Acre,Brasil
+17,Cauã Silva,190.468.372-03,48,30/01/1976,"Rodovia de Silva, 7
+Monsenhor Messias
+59375-986 Azevedo de Monteiro / AC",Espírito Santo,Brasil
+18,Pedro Lucas da Cunha,387.029.514-79,45,05/07/1979,"Feira Santos, 9
+Nova Vista
+53492264 Pereira / PI",Pará,Brasil
+19,Juan Pires,725.930.461-80,52,27/10/1971,"Quadra Clarice da Mata, 74
+Morro Dos Macacos
+50917-945 Cirino da Praia / DF",Mato Grosso do Sul,Brasil
+20,Maria Isis Barros,594.726.130-80,56,14/08/1968,"Via de da Cruz, 90
+Castanheira
+10606821 Melo dos Dourados / RR",Amapá,Brasil
+21,Yasmin Pires,271.983.564-19,51,29/12/1972,"Morro de Gonçalves, 1
+Boa União 1ª Seção
+19954-190 Nascimento / DF",Amazonas,Brasil
+22,Bento Borges,571.023.896-12,42,24/08/1982,"Sítio de Silva
+Horto
+58497850 Vargas / RJ",Rio de Janeiro,Brasil
+23,Valentim das Neves,863.401.529-70,33,17/04/1991,"Rua de Fonseca, 137
+Boa Viagem
+56448-825 Albuquerque dos Dourados / PI",Alagoas,Brasil
+24,Maria Sophia da Cruz,609.735.428-29,31,03/04/1993,"Passarela de Pacheco, 46
+Vila Real 1ª Seção
+40593-742 Brito / CE",Rio de Janeiro,Brasil
+25,Bryan Santos,156.348.709-84,57,27/11/1966,"Distrito de Garcia
+Graça
+53270587 Rezende do Campo / MS",Rio Grande do Sul,Brasil
+26,Ravy Nascimento,754.263.981-19,42,05/01/1982,"Pátio Augusto da Cruz, 249
+São Paulo
+48438-139 Mendonça Verde / MG",São Paulo,Brasil
+27,Ana Laura das Neves,623.841.705-62,21,09/09/2003,"Morro de Azevedo
+Buraco Quente
+76180-685 Sá do Amparo / MA",Amazonas,Brasil
+28,Daniela Garcia,817.365.204-07,25,07/06/1999,"Travessa Cirino, 835
+Vila São Rafael
+91011-414 Nogueira dos Dourados / ES",Rio Grande do Norte,Brasil
+29,Davi Lucca Vieira,743.065.921-70,58,21/10/1965,"Avenida Pacheco, 81
+Santa Rita
+98836013 Sales Grande / SC",Amapá,Brasil
+30,Eduarda Cardoso,076.982.413-78,21,25/01/2003,"Vereda Martins, 4
+Barroca
+97520511 Fernandes Alegre / SP",Goiás,Brasil
+31,Valentina Melo,208.193.754-97,35,21/09/1988,"Sítio Ana Carolina Pastor, 14
+Vila Do Pombal
+41379-382 Fogaça / PR",Mato Grosso,Brasil
+32,Ana Carolina Pires,569.231.470-34,25,11/03/1999,"Trecho da Costa, 78
+Nova Granada
+93201-061 Mendonça de Albuquerque / PI",Rio Grande do Sul,Brasil
+33,Arthur Viana,951.673.842-73,34,27/01/1990,"Rua Bruno Vargas, 41
+Jardinópolis
+17705212 Lima / PB",Tocantins,Brasil
+34,Carolina Casa Grande,209.376.458-00,37,01/10/1986,"Praça Peixoto
+Pindorama
+16674390 Ramos da Mata / PA",Espírito Santo,Brasil
+35,Caio Fonseca,708.362.194-22,29,26/05/1995,"Loteamento Maria Luiza Cardoso, 63
+Parque São Pedro
+72554-613 Martins do Amparo / MS",Minas Gerais,Brasil
+36,Allana Rocha,702.169.354-07,23,27/10/2000,"Trevo Almeida, 6
+Maria Virgínia
+40481957 Marques / SE",Rio Grande do Norte,Brasil
+37,Isabella Camargo,458.932.076-29,41,31/08/1983,"Praça de Azevedo, 8
+Vila Tirol
+67527-694 Ferreira / ES",Rio de Janeiro,Brasil
+38,Gabriela Moura,356.298.410-33,20,31/03/2004,"Via de Marques, 58
+Palmeiras
+05136-274 Machado / BA",Rio Grande do Norte,Brasil
+39,José Miguel Casa Grande,093.182.546-60,31,04/05/1993,"Travessa de Siqueira, 628
+Nova Granada
+26025-096 Vieira dos Dourados / RS",Paraná,Brasil
+40,Sr. Joaquim Cardoso,985.162.034-33,35,06/11/1988,"Núcleo Brito, 13
+Conjunto Bonsucesso
+53558132 da Paz de Pacheco / BA",Acre,Brasil
+41,Fernando Rios,023.476.158-07,43,05/02/1981,"Residencial Lopes, 780
+Vila Cloris
+72759-178 Vargas / AL",Pernambuco,Brasil
+42,Sra. Bianca Castro,685.341.702-07,55,22/09/1968,"Lagoa Benício Cavalcante, 43
+Tupi B
+32518159 da Luz de Almeida / RR",Pernambuco,Brasil
+43,Matheus Aragão,016.257.394-43,53,11/08/1971,"Loteamento Rezende
+Castanheira
+76144-852 Andrade / MT",Pará,Brasil
+44,Bruna Siqueira,357.940.268-47,30,01/04/1994,"Loteamento de Peixoto, 92
+Vila Real 2ª Seção
+45096-058 da Mata de Araújo / AM",Maranhão,Brasil
+45,Letícia Cardoso,480.657.193-84,56,08/08/1968,"Vereda de Ribeiro, 96
+Santa Helena
+13738-831 Cassiano / AM",São Paulo,Brasil
+46,Nina Rios,571.623.948-09,46,17/03/1978,"Loteamento Ryan da Mota, 8
+Pilar
+89057-967 Cardoso / SC",Piauí,Brasil
+47,Matheus Moreira,152.834.709-97,57,02/10/1966,"Sítio Almeida, 9
+Conjunto Lagoa
+15849270 Montenegro / AL",Goiás,Brasil
+48,Felipe Rios,078.596.241-76,31,05/10/1992,"Área de Vargas, 573
+Alpes
+10825-588 Cardoso / RJ",Alagoas,Brasil
+49,Luiz Felipe Borges,574.163.908-93,57,24/11/1966,"Aeroporto Brenda Garcia, 847
+Santa Isabel
+31984067 da Rocha da Prata / PI",Alagoas,Brasil
+50,Maria Flor Santos,857.302.469-00,57,03/10/1966,"Estrada Fernandes
+Conjunto Providencia
+96844-901 Sales / AC",Rio de Janeiro,Brasil
+51,Samuel Porto,210.869.745-49,52,16/12/1971,"Jardim Clara Porto
+Caetano Furquim
+87204-320 Garcia de Minas / TO",Ceará,Brasil
+52,Milena da Cunha,840.672.359-92,44,25/11/1979,"Vale Araújo, 45
+Frei Leopoldo
+79163413 Ferreira / AM",Pernambuco,Brasil
+53,Caroline Teixeira,453.920.876-47,47,24/06/1977,"Pátio de Correia, 39
+Vila Coqueiral
+09880177 Rezende / PI",Goiás,Brasil
+54,Emanuelly Câmara,485.123.079-60,19,03/05/2005,"Lago Isabel Nogueira, 94
+Marajó
+84183761 Pimenta de Minas / MA",Espírito Santo,Brasil
+55,Diogo Camargo,091.385.764-57,57,26/07/1967,"Lagoa Pires, 6
+Buritis
+34335-203 Cavalcanti de Minas / RS",Distrito Federal,Brasil
+56,Maria Isis Moura,912.504.378-14,37,09/10/1986,"Residencial Santos, 18
+Beira Linha
+77352-702 Pimenta Alegre / PB",Roraima,Brasil
+57,Sra. Cecília Moura,792.645.038-38,45,11/11/1978,"Recanto de Castro
+Marieta 1ª Seção
+68524325 Cardoso / RS",Amazonas,Brasil
+58,Pietra Melo,940.271.536-34,60,07/05/1964,"Trevo de Farias, 7
+Vitoria
+03172939 Almeida de Minas / AM",Bahia,Brasil
+59,Gustavo Vieira,825.346.710-90,28,06/11/1995,"Sítio de Araújo, 4
+Boa Viagem
+80795646 Caldeira de Cassiano / MS",Mato Grosso,Brasil
+60,Alice Lima,056.238.749-83,58,11/05/1966,"Viaduto Nina Correia, 53
+Glória
+09260059 da Mata / RO",Rio de Janeiro,Brasil
+61,Larissa Pastor,428.590.136-60,32,06/04/1992,"Pátio Sousa, 91
+Vila Nova Cachoeirinha 2ª Seção
+05102-898 Novais do Sul / RJ",Ceará,Brasil
+62,Murilo Nascimento,479.132.058-14,26,30/11/1997,"Praia Fonseca
+Liberdade
+40656-772 Abreu / GO",Amazonas,Brasil
+63,Ana Brito,871.264.059-01,32,19/05/1992,"Residencial de Novais, 65
+Novo Das Industrias
+43207-394 Sá / PR",Pernambuco,Brasil
+64,Mateus Borges,923.860.415-06,56,24/02/1968,"Jardim Marcelo Araújo
+Vila Da Luz
+56177250 Fonseca / PE",Bahia,Brasil
+65,Sra. Maria Eduarda Vasconcelos,952.708.431-88,36,10/10/1987,"Viaduto de da Luz, 34
+Taquaril
+46738-464 Aparecida / MG",Rio de Janeiro,Brasil
+66,Bryan Melo,236.089.417-03,33,13/04/1991,"Residencial das Neves
+Nova Pampulha
+90332-623 Nunes / ES",Rio Grande do Sul,Brasil
+67,Sr. Fernando Monteiro,940.721.568-76,26,07/07/1998,"Avenida Renan Sá, 91
+São Francisco Das Chagas
+35881-572 da Cruz / CE",Alagoas,Brasil
+68,Evelyn Câmara,102.856.497-01,60,15/05/1964,"Jardim Alexandre Sampaio, 997
+Vila Nova Gameleira 2ª Seção
+57039744 Brito / PE",Rondônia,Brasil
+69,Maria Helena Cavalcanti,438.795.021-88,52,25/07/1972,"Campo de da Cruz, 67
+Vila Mangueiras
+00090473 Camargo do Norte / SP",Tocantins,Brasil
+70,Ryan Andrade,905.172.836-03,56,25/12/1967,"Distrito da Rosa, 62
+Santa Rita
+48413863 Sá / RS",Rio de Janeiro,Brasil
+71,Maria Julia Fernandes,094.638.512-24,23,09/01/2001,"Estação de Moraes, 34
+Serra Do Curral
+50003144 Cassiano Verde / AM",Amapá,Brasil
+72,Mathias Correia,724.689.135-82,27,12/09/1997,"Residencial de Cavalcanti, 57
+Conjunto Califórnia I
+93907-165 Borges da Praia / BA",Mato Grosso,Brasil
+73,Ana Lívia Dias,508.347.169-84,53,28/08/1971,"Praça Pires
+Maravilha
+50601257 Correia / PR",Mato Grosso,Brasil
+74,Sr. Lucca Sousa,891.423.507-60,24,01/05/2000,"Fazenda Vieira, 70
+Vila Califórnia
+24510480 da Conceição de Rezende / AC",Rio Grande do Norte,Brasil
+75,Sabrina da Rosa,534.290.716-07,58,16/04/1966,"Chácara Catarina da Luz, 27
+Vila Jardim São José
+00967-174 Sales / RS",Pernambuco,Brasil
+76,Alana Lopes,685.912.034-70,41,22/11/1982,"Trevo Monteiro
+Beira Linha
+99958-894 Pacheco de Mendes / CE",Santa Catarina,Brasil
+77,Sra. Melissa Rezende,967.842.015-58,37,12/08/1987,"Lago Pimenta, 94
+Pilar
+88453-748 Sales / PE",Pará,Brasil
+78,Bianca Barros,162.987.045-58,21,01/08/2003,"Recanto Câmara, 311
+Boa União 2ª Seção
+99246-995 Novaes do Sul / RR",Tocantins,Brasil
+79,Emanuel Campos,216.857.493-64,31,21/01/1993,"Distrito de Almeida, 61
+Vila Madre Gertrudes 1ª Seção
+36233-678 Brito / SE",Paraíba,Brasil
+80,Dr. Ian Nascimento,932.187.506-95,54,20/04/1970,"Setor Vicente Costela, 61
+Marilandia
+25646030 da Mota da Serra / MS",Rondônia,Brasil
+81,Ana Laura Novaes,302.761.498-31,20,22/08/2004,"Trevo de Ribeiro, 534
+Vila Da Paz
+68674-214 da Cruz dos Dourados / SC",Piauí,Brasil
+82,Luísa Brito,869.452.731-64,18,07/02/2006,"Estação Samuel Correia, 87
+Solar Do Barreiro
+43005103 Mendonça / PE",Espírito Santo,Brasil
+83,Maria Isis Mendonça,345.907.612-70,31,21/01/1993,"Rua Monteiro, 73
+Havaí
+25631543 Pimenta / RJ",Piauí,Brasil
+84,Ágatha Pinto,391.582.760-68,41,07/06/1983,"Esplanada Henrique Guerra, 46
+Mariano De Abreu
+93260486 Barros / AP",Minas Gerais,Brasil
+85,Elisa Farias,453.627.890-74,30,12/07/1994,"Travessa de da Luz, 48
+Vista Alegre
+34159510 Araújo de Rezende / RN",Mato Grosso,Brasil
+86,Ana Lívia Azevedo,615.209.743-61,29,11/08/1995,"Vale de Machado, 68
+Caiçara - Adelaide
+75327-654 da Rosa de Caldeira / AP",Rondônia,Brasil
+87,Levi Moreira,297.853.601-21,46,22/06/1978,"Chácara Vinícius Gomes, 275
+Comiteco
+29252783 Costa da Serra / GO",Paraná,Brasil
+88,Bernardo da Luz,540.697.183-20,47,12/08/1977,"Ladeira Sales, 6
+Nossa Senhora Da Aparecida
+73934-945 Pereira do Amparo / PA",Espírito Santo,Brasil
+89,Arthur Araújo,653.972.184-64,56,19/11/1967,"Condomínio de Aparecida, 17
+Nova Floresta
+33300318 Cirino / RN",Paraíba,Brasil
+90,Murilo Abreu,450.618.297-94,49,23/06/1975,"Distrito Andrade, 4
+Capitão Eduardo
+73373-170 Melo de da Rocha / MT",Rio Grande do Sul,Brasil
+91,Emilly da Costa,286.509.714-58,45,19/11/1978,"Ladeira Oliveira, 34
+Prado
+21199-274 Fernandes Paulista / RS",Piauí,Brasil
+92,Letícia Albuquerque,597.214.860-94,37,19/03/1987,"Área Marcos Vinicius da Mata, 36
+Camponesa 2ª Seção
+83227-029 da Costa Grande / PB",Mato Grosso,Brasil
+93,Dra. Milena Teixeira,819.367.250-02,43,24/04/1981,"Distrito Joana Rocha, 65
+Nova Gameleira
+98225285 Costa Alegre / ES",Alagoas,Brasil
+94,Emilly Aparecida,107.649.853-10,60,22/06/1964,"Recanto João Miguel Campos, 86
+Santa Rita
+45048227 Guerra / RN",Amapá,Brasil
+95,Ana Júlia Marques,295.407.318-79,60,22/11/1963,"Campo Freitas, 5
+Barro Preto
+74556-633 Cunha / SC",Amazonas,Brasil
+96,Rodrigo Cavalcante,650.782.143-80,57,15/05/1967,"Vale da Rosa, 283
+Vila Coqueiral
+25583759 Novaes / PE",Ceará,Brasil
+97,Anna Liz Ramos,640.132.859-24,55,01/06/1969,"Pátio de Fernandes, 32
+Aguas Claras
+95998957 Leão das Flores / MG",Goiás,Brasil
+98,Dr. Rhavi Pereira,158.204.963-70,43,25/09/1980,"Vale de Barbosa, 85
+Zilah Sposito
+22094-608 Cirino de da Luz / ES",Rondônia,Brasil
+99,Melissa Fernandes,107.486.935-48,29,24/01/1995,"Praia Martins
+Comiteco
+32650-567 Gomes / MA",Roraima,Brasil
